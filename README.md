@@ -1,4 +1,4 @@
-# 🖼️ SCOP (Screen Capture On Python)
+# SCOP (Screen Capture On Python)
 
 **Python을 기반으로 하는 오픈 소스 스크린 캡쳐 도구**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📝 개요
+## 개요
 
 SCOP는 Python으로 작성된 간단하고 효율적인 스크린 캡쳐 프로그램입니다. PyQt5를 기반으로 한 직관적인 GUI와 단축키 기능을 제공하며, Windows 11 환경에서 최적화되어 있습니다.
 
